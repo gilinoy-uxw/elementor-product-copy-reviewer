@@ -1,0 +1,6 @@
+name = "Elementor Copy Reviewer"
+version = "1.0.0"
+description = "Reviews product copy against Elementor's voice, tone, and terminology guidelines."
+entry_point = "prompts/review.txt"
+author = "Elementor Content Design"
+license = "CC-BY-NC-4.0"
