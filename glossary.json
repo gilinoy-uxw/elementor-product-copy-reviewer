@@ -1,0 +1,331 @@
+{
+  "terms": [
+    {
+      "term": "Editor Pro",
+      "approved": ["Editor Pro"],
+      "avoid": ["Pro Elementor", "Pro Editor", "Elementor pro", "Elementor Pro"],
+      "definition": "The paid Elementor Pro plugin that extends the core editor with advanced features.",
+      "usage": {
+        "when_to_use": "When referring to the paid plan or features included in the Pro offering.",
+        "notes": [
+          "Always capitalize 'P' in 'Pro'",
+          "Never invert word order"
+        ]
+      },
+      "examples": {
+        "correct": "Upgrade to Editor Pro to access custom CSS and dynamic content."
+      }
+    },
+    {
+      "term": "site",
+      "approved": ["site"],
+      "avoid": ["website"],
+      "definition": "A web property created and managed by a user using Elementor.",
+      "usage": {
+        "when_to_use": "In product UI, onboarding, settings, and instructional copy.",
+        "notes": [
+          "Preferred for brevity and consistency",
+          "'Website' may be acceptable in marketing copy only"
+        ]
+      },
+      "examples": {
+        "correct": "Choose a name for your site.",
+        "avoid": "Choose a name for your website."
+      }
+    },
+    {
+      "term": "Website builder",
+      "approved": ["Website builder"],
+      "avoid": ["editor (when referring to the ecosystem or product family)"],
+      "definition": "A general term describing Elementor as a platform for building websites.",
+      "usage": {
+        "when_to_use": "When talking about Elementor at a high level or across multiple products."
+      },
+      "examples": {
+        "correct": "Elementor is a website builder for creators."
+      }
+    },
+    {
+      "term": "editor",
+      "approved": ["editor"],
+      "avoid": ["builder (when referring to the specific product experience)"],
+      "definition": "The specific Elementor product used to design and edit WordPress sites.",
+      "usage": {
+        "when_to_use": "When referring to the in-product editing experience.",
+        "notes": ["Builder = ecosystem", "Editor = product"]
+      },
+      "examples": {
+        "correct": "The Elementor Editor gives you full visual control."
+      }
+    },
+    {
+      "term": "plan",
+      "approved": ["plan"],
+      "avoid": ["membership"],
+      "definition": "A named tier that defines features, limits, and entitlements.",
+      "usage": {
+        "when_to_use": "Describe what a user is on or can upgrade to; compare tiers or capabilities; in pricing and upgrade contexts.",
+        "when_not_to_use": "Referring to billing state or renewal mechanics.",
+        "notes": ["Plans define what you get, not how you pay", "Never use 'membership'"]
+      },
+      "examples": {
+        "correct": "Your current plan includes custom fonts and dynamic content.",
+        "avoid": "Your subscription includes custom fonts."
+      }
+    },
+    {
+      "term": "subscription",
+      "approved": ["subscription"],
+      "avoid": ["plan (when referring to billing mechanics)", "membership"],
+      "definition": "The ongoing billing relationship between the user and Elementor.",
+      "usage": {
+        "when_to_use": "Payments, renewals, invoices, cancellations, billing settings, and legal copy.",
+        "when_not_to_use": "Feature availability or tier comparisons.",
+        "notes": ["Subscription = how you pay", "Plan = what you get"]
+      },
+      "examples": {
+        "correct": "Your subscription renews on May 12.",
+        "avoid": "Your plan renews on May 12."
+      }
+    },
+    {
+      "term": "Membership",
+      "approved": [],
+      "avoid": ["Membership"],
+      "definition": "Not used. Imprecise term inconsistent with Elementor’s billing and product models.",
+      "usage": {
+        "notes": [
+          "Never use 'membership'",
+          "Replace with 'subscription' or 'plan' depending on context"
+        ]
+      }
+    },
+    {
+      "term": "WordPress",
+      "approved": ["WordPress"],
+      "avoid": ["Wordpress", "wordpress"],
+      "definition": "The open-source content management system Elementor is built for.",
+      "usage": {
+        "notes": ["Capital W, capital P", "Never sentence-case or lowercase"]
+      },
+      "examples": {
+        "correct": "Elementor is the leading website builder for WordPress.",
+        "avoid": "Elementor works with wordpress."
+      }
+    },
+    {
+      "term": "pop-up",
+      "approved": ["pop-up"],
+      "avoid": ["popup", "Pop-Up"],
+      "definition": "A UI element that appears over page content to display messages or collect input.",
+      "usage": {
+        "notes": ["Lowercase 'p'", "Hyphenated", "Consistent with modern UI terminology"]
+      },
+      "examples": {
+        "correct": "Create a pop-up to capture leads.",
+        "avoid": "Create a popup for email signup."
+      }
+    },
+    {
+      "term": "One",
+      "approved": ["One"],
+      "avoid": ["one", "ONE"],
+      "definition": "Elementor’s most comprehensive offering, providing the full website-building experience.",
+      "usage": {
+        "when_to_use": "When referring to the all-inclusive Elementor offering.",
+        "when_not_to_use": "As a generic adjective or lowercase.",
+        "notes": ["Always capitalized", "Treated as a proper product name"]
+      },
+      "examples": {
+        "correct": "Upgrade to One for the complete website-building experience.",
+        "avoid": "Upgrade to one for everything Elementor offers."
+      }
+    },
+    {
+      "term": "all-in-one",
+      "approved": ["all-in-one"],
+      "avoid": ["all in one", "all-in one"],
+      "definition": "Describes a bundled experience including multiple tools or capabilities in one.",
+      "usage": {
+        "notes": ["Always hyphenated", "Lowercase descriptor"]
+      },
+      "examples": {
+        "correct": "One is an all-in-one solution for building websites."
+      }
+    },
+    {
+      "term": "AI",
+      "approved": ["AI"],
+      "avoid": ["Ai", "ai", "Artificial Intelligence", "artificial intelligence"],
+      "definition": "Technology used to generate, improve, or automate outputs (text, design, etc.) in Elementor experiences.",
+      "usage": {
+        "notes": [
+          "Always uppercase AI",
+          "Do not spell out 'artificial intelligence'",
+          "Emphasize user benefit, not technology"
+        ]
+      },
+      "examples": {
+        "correct": "Use AI to generate copy for your site.",
+        "avoid": "Use artificial intelligence to generate copy for your site."
+      }
+    },
+    {
+      "term": "plugin",
+      "approved": ["plugin", "Plugin"],
+      "avoid": ["Plug-in", "plug-in"],
+      "definition": "An add-on extending functionality in WordPress or Elementor.",
+      "usage": {
+        "notes": [
+          "Use lowercase 'plugin' in running text",
+          "Capitalize 'Plugin' at sentence start or in proper names",
+          "Never hyphenate"
+        ]
+      },
+      "examples": {
+        "correct": "Install the plugin to start building your site.",
+        "avoid": "Install the plug-in to start building your site."
+      }
+    },
+    {
+      "term": "Handoff",
+      "approved": ["Handoff"],
+      "avoid": ["Transfer", "Move"],
+      "definition": "The process of moving a site and its subscription ownership to a client while the agency retains access."
+    },
+    {
+      "term": "Tier",
+      "approved": ["tier"],
+      "avoid": ["level"],
+      "definition": "A structured program status assigned to an agency based on eligibility and performance criteria."
+    },
+    {
+      "term": "Partner",
+      "approved": ["Partner", "Agency"],
+      "avoid": ["Affiliate", "Reseller", "Vendor"],
+      "definition": "Partner: an accepted agency in the program; Agency: a service provider that builds and manages client websites."
+    },
+    {
+      "term": "Manage",
+      "approved": ["Manage"],
+      "avoid": ["Elementor Manage"],
+      "definition": "A centralized dashboard for monitoring, maintaining, and optimizing WordPress sites.",
+      "usage": {
+        "notes": [
+          "Product name (capitalized)",
+          "Used in marketing, documentation, and cross-product contexts"
+        ]
+      },
+      "examples": {
+        "correct": "Connect your sites to Manage."
+      }
+    },
+    {
+      "term": "Site management",
+      "approved": ["Site management"],
+      "definition": "The experience within Elementor One for monitoring, maintenance, and optimization of a site.",
+      "usage": {
+        "notes": ["Sentence case", "Use in WordPress admin or One dashboard UI copy"]
+      },
+      "examples": {
+        "correct": "Open Site management."
+      }
+    },
+    {
+      "term": "Angie",
+      "approved": ["Angie"],
+      "avoid": ["AI assistant", "bot"],
+      "definition": "Elementor’s agentic AI that performs actions and creates assets inside WordPress.",
+      "examples": {
+        "correct": "Ask Angie."
+      }
+    },
+    {
+      "term": "Widget",
+      "approved": ["Widget"],
+      "avoid": ["Block", "component"],
+      "definition": "A reusable UI element added to a page.",
+      "examples": {
+        "correct": "Rename widget."
+      }
+    },
+    {
+      "term": "Custom widget",
+      "approved": ["Custom widget"],
+      "avoid": ["Angie widget", "AI widget"],
+      "definition": "A widget generated by Angie based on a user request.",
+      "examples": {
+        "correct": "Create custom widget."
+      }
+    },
+    {
+      "term": "Test mode",
+      "approved": ["Test mode"],
+      "avoid": ["Preview", "Draft mode"],
+      "definition": "A safe environment where Angie’s changes don’t affect the live site.",
+      "examples": {
+        "correct": "Enter Test mode."
+      }
+    },
+    {
+      "term": "Publish to live",
+      "approved": ["Publish to live"],
+      "avoid": ["Push to site", "Publish", "Apply to site", "Publish to live site"],
+      "definition": "Makes changes from Test Mode visible on your live site.",
+      "examples": {
+        "correct": "Publish to live."
+      }
+    },
+    {
+      "term": "Live site",
+      "approved": ["Live site"],
+      "avoid": ["Production"],
+      "definition": "The public-facing version of the website visitors see.",
+      "examples": {
+        "correct": "Affect your live site."
+      }
+    },
+    {
+      "term": "Build plan",
+      "approved": ["Build plan"],
+      "avoid": ["Task", "Execution"],
+      "definition": "Angie’s proposed implementation before executing a request.",
+      "examples": {
+        "correct": "Review build plan."
+      }
+    },
+    {
+      "term": "Request",
+      "approved": ["Request"],
+      "avoid": ["Command"],
+      "definition": "An instruction given to Angie describing what to create or change.",
+      "examples": {
+        "correct": "Send request to Angie."
+      }
+    },
+    {
+      "term": "Fix with Angie",
+      "approved": ["Fix with Angie"],
+      "avoid": ["Retry"],
+      "definition": "Angie attempts to automatically diagnose and repair an issue.",
+      "examples": {
+        "correct": "Fix with Angie."
+      }
+    },
+    {
+      "term": "Atomic Editor",
+      "approved": ["Atomic Editor"],
+      "avoid": ["V4", "Version 4", "Editor V4", "New editor"],
+      "definition": "Elementor’s next-generation editing experience built on a modern, CSS-based architecture enabling flexibility, scalability, and consistency."
+    },
+    {
+      "term": "Components",
+      "approved": ["Components"],
+      "avoid": ["Reusable blocks", "Synced blocks", "Global blocks"],
+      "definition": "Reusable elements that stay synced wherever they appear across a site.",
+      "examples": {
+        "correct": "Edit a Component once, and the changes update everywhere."
+      }
+    }
+  ]
+}
