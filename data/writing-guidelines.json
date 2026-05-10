@@ -9,7 +9,7 @@
       "rationale": "The brand should sound confident and decisive, not hesitant, vague, or inflated.",
       "example": {
         "good": "Keep your site running with unified support.",
-        "bad": "We’re kind of here to help you navigate whatever comes up."
+        "bad": "We're kind of here to help you navigate whatever comes up."
       }
     },
     {
@@ -139,7 +139,7 @@
       "rationale": "Most product interactions should feel clear and efficient rather than overly emotional.",
       "example": {
         "good": "Choose a template to get started.",
-        "bad": "Let’s jump in and make something awesome together."
+        "bad": "Let's jump in and make something awesome together."
       }
     },
     {
@@ -149,7 +149,7 @@
       "rationale": "Guidance should support the user without sounding overly chatty or ceremonial.",
       "example": {
         "good": "Add the downloaded zip file to your WordPress environment.",
-        "bad": "No worries, we’ve got you covered every step of the way."
+        "bad": "No worries, we've got you covered every step of the way."
       }
     },
     {
@@ -159,7 +159,7 @@
       "rationale": "Users need stability and confidence when something feels risky or uncertain.",
       "example": {
         "good": "Your changes are safe in Test mode until you apply them.",
-        "bad": "Something went wrong, but fingers crossed it’ll be fine."
+        "bad": "Something went wrong, but fingers crossed it'll be fine."
       }
     },
     {
@@ -169,7 +169,7 @@
       "rationale": "Positive encouragement is useful in small doses but should not overwhelm product clarity.",
       "example": {
         "good": "Your site is ready for the next step.",
-        "bad": "Amazing job! You’re crushing it!"
+        "bad": "Amazing job! You're crushing it!"
       }
     },
     {
@@ -206,7 +206,7 @@
       "id": "editor-04",
       "category": "pillar_editor",
       "rule": "Prefer terms like 'pixel-perfect' and 'Flexbox precision' when relevant.",
-      "rationale": "These terms reinforce the Editor’s precision and professional value.",
+      "rationale": "These terms reinforce the Editor's precision and professional value.",
       "example": {
         "good": "Design with pixel-perfect precision.",
         "bad": "Make things look nice."
@@ -216,7 +216,7 @@
       "id": "editor-05",
       "category": "pillar_editor",
       "rule": "Do not use 'easy' or 'drag-and-drop' as standalone benefits.",
-      "rationale": "These phrases are generic and undersell the Editor’s depth and control.",
+      "rationale": "These phrases are generic and undersell the Editor's depth and control.",
       "example": {
         "good": "Create responsive layouts with precise control.",
         "bad": "Easy drag-and-drop editing."
@@ -229,7 +229,7 @@
       "rationale": "Hosting decisions are trust-sensitive and should feel stable and credible.",
       "example": {
         "good": "Keep your site stable with unified support.",
-        "bad": "Hosting you’ll absolutely love."
+        "bad": "Hosting you'll absolutely love."
       }
     },
     {
@@ -286,7 +286,7 @@
       "id": "manage-03",
       "category": "pillar_manage",
       "rule": "Prefer terms like 'centralized', 'workflow optimization', and 'standardize'.",
-      "rationale": "These terms reinforce the product’s value in coordination and scale.",
+      "rationale": "These terms reinforce the product's value in coordination and scale.",
       "example": {
         "good": "Centralize site workflows and standardize output.",
         "bad": "Handle your to-do list more easily."
@@ -368,7 +368,7 @@
       "rule": "Structure Angie responses in three parts: result explanation, next-step control, and collaborative close.",
       "rationale": "This pattern improves transparency, control, and continuity.",
       "example": {
-        "good": "I’ve created a Flexbox image accordion. You can review it in Test mode before applying it to your site. Would you like to adjust anything?",
+        "good": "I've created a Flexbox image accordion. You can review it in Test mode before applying it to your site. Would you like to adjust anything?",
         "bad": "Done. Want more?"
       }
     },
@@ -418,7 +418,7 @@
       "rule": "Be transparent about what Angie has done.",
       "rationale": "Users need to understand the result in order to review and make informed decisions.",
       "example": {
-        "good": "I’ve created a Flexbox image accordion.",
+        "good": "I've created a Flexbox image accordion.",
         "bad": "Your request is complete."
       }
     },
@@ -435,7 +435,7 @@
     {
       "id": "angie-10",
       "category": "angie",
-      "rule": "Use accessible, non-technical language when describing Angie’s behavior.",
+      "rule": "Use accessible, non-technical language when describing Angie's behavior.",
       "rationale": "Clarity and trust are stronger when the system is described in human-readable terms.",
       "example": {
         "good": "Angie fixed the layout issue.",
@@ -469,7 +469,127 @@
       "rationale": "Advanced users want precision, credibility, and respect for expertise.",
       "example": {
         "good": "Standardize output across sites with centralized control.",
-        "bad": "You’ll love how awesome and intuitive this feels."
+        "bad": "You'll love how awesome and intuitive this feels."
+      }
+    },
+    {
+      "id": "quality-01",
+      "category": "writing_quality",
+      "rule": "CTAs must describe outcomes, not mechanics. Start with a strong verb that tells the user what they will achieve.",
+      "rationale": "Outcome-focused CTAs are more motivating and reduce cognitive load.",
+      "example": {
+        "good": "Publish your site",
+        "bad": "Click to submit"
+      }
+    },
+    {
+      "id": "quality-02",
+      "category": "writing_quality",
+      "rule": "Empty states must feel like invitations, not absences. Tell the user what they can do, not what is missing.",
+      "rationale": "Empty states are opportunities for first action, not just acknowledgment of emptiness.",
+      "example": {
+        "good": "Create your first site to get started.",
+        "bad": "No sites yet."
+      }
+    },
+    {
+      "id": "quality-03",
+      "category": "writing_quality",
+      "rule": "Error messages must always include a next step. Never leave users without a path forward.",
+      "rationale": "Errors without direction increase frustration and abandonment.",
+      "example": {
+        "good": "Something went wrong. Try refreshing the page or contact support.",
+        "bad": "An error occurred."
+      }
+    },
+    {
+      "id": "quality-04",
+      "category": "writing_quality",
+      "rule": "Replace weak or vague words with specific, concrete alternatives.",
+      "rationale": "Specificity builds trust and reduces ambiguity.",
+      "example": {
+        "good": "Your pages, templates, and pop-ups are saved.",
+        "bad": "Your content is saved."
+      }
+    },
+    {
+      "id": "quality-05",
+      "category": "writing_quality",
+      "rule": "Remove filler phrases that add length without meaning.",
+      "rationale": "Concise copy respects the user's time and improves scannability.",
+      "example": {
+        "good": "To publish your site, connect a domain.",
+        "bad": "In order to be able to publish your site, you will need to connect a domain."
+      }
+    },
+    {
+      "id": "quality-06",
+      "category": "writing_quality",
+      "rule": "Replace weak verb constructions with strong, direct verbs.",
+      "rationale": "Strong verbs make copy more direct and confident.",
+      "example": {
+        "good": "You can publish any time.",
+        "bad": "You are able to publish at any time."
+      }
+    },
+    {
+      "id": "quality-07",
+      "category": "writing_quality",
+      "rule": "Navigation labels must be parallel in structure — same grammatical form across all items.",
+      "rationale": "Parallel structure reduces cognitive load and feels more professional.",
+      "example": {
+        "good": "Sites / Templates / Settings",
+        "bad": "Your Sites / Managing Templates / Account Settings"
+      }
+    },
+    {
+      "id": "quality-08",
+      "category": "writing_quality",
+      "rule": "Use second person ('you', 'your') consistently in UI copy. Never switch to third person or passive.",
+      "rationale": "Second person keeps copy direct and personal.",
+      "example": {
+        "good": "Your site is live.",
+        "bad": "The site is now live."
+      }
+    },
+    {
+      "id": "quality-09",
+      "category": "writing_quality",
+      "rule": "Success states should confirm what happened and suggest what to do next.",
+      "rationale": "Confirmation alone leaves users wondering what comes next.",
+      "example": {
+        "good": "Site published. Share your URL or keep editing.",
+        "bad": "Done."
+      }
+    },
+    {
+      "id": "quality-10",
+      "category": "writing_quality",
+      "rule": "Descriptions and tooltips should answer 'what does this do for me?' not just 'what is this?'",
+      "rationale": "User-benefit framing is more motivating than feature description.",
+      "example": {
+        "good": "Save time by reusing this layout across multiple sites.",
+        "bad": "A layout that can be used on multiple sites."
+      }
+    },
+    {
+      "id": "quality-11",
+      "category": "writing_quality",
+      "rule": "Onboarding copy should build momentum one step at a time — never front-load all options.",
+      "rationale": "Progressive disclosure reduces overwhelm and increases completion rates.",
+      "example": {
+        "good": "Start by giving your site a name.",
+        "bad": "Choose your site name, template, domain, and plan to get started."
+      }
+    },
+    {
+      "id": "quality-12",
+      "category": "writing_quality",
+      "rule": "When something is technically correct but flat, look for a more human or specific way to say it.",
+      "rationale": "Copy that sounds like it was written by a person builds more trust than copy that sounds like a system.",
+      "example": {
+        "good": "Looks like something went wrong on our end. Give it another try.",
+        "bad": "Operation failed. Please retry."
       }
     }
   ]
