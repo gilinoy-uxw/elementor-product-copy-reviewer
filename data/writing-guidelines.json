@@ -103,16 +103,6 @@
       }
     },
     {
-      "id": "style-08",
-      "category": "grammar_style",
-      "rule": "Spell out numbers one through nine; use numerals for 10 and above.",
-      "rationale": "This keeps copy consistent and easy to read.",
-      "example": {
-        "good": "Three pages and 12 revisions",
-        "bad": "3 pages and twelve revisions"
-      }
-    },
-    {
       "id": "style-09",
       "category": "grammar_style",
       "rule": "Keep feature text within two lines in the UI.",
