@@ -757,5 +757,28 @@
         "Short definition: 'The centralized styling workspace for Atomic Elements'"
       ]
     }
+  },
+  {
+    "term": "Uptime monitoring",
+    "approved": [
+      "Uptime monitoring",
+      "Uptime",
+      "Monitoring"
+    ],
+    "avoid": [],
+    "definition": "Uptime monitoring checks whether a site is available and helps users review downtime incidents in one place.",
+    "usage": {
+      "when_to_use": "Use 'Uptime monitoring' when introducing or describing the feature. Use 'Uptime' as the section or page name when context already makes it clear this is about site availability. Use 'Monitoring' when referring to the active monitoring state or action, especially in status messages and controls.",
+      "examples": {
+        "correct": "Uptime | New uptime monitoring | Monitoring active | Pause monitor | Monitor your site's availability and review downtime incidents in one place."
+      },
+      "notes": [
+        "Uptime monitoring is the clearest feature name for explanatory copy",
+        "Uptime works well for navigation and page titles because it's short and scannable",
+        "Monitoring should usually appear with context (e.g. 'Monitoring active') so it doesn't feel too broad",
+        "Use 'downtime' for periods when the site was unavailable",
+        "Keep incident copy factual and operational, not alarming"
+      ]
+    }
   }
 ]
